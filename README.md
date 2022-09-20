@@ -36,3 +36,17 @@
 ```
 
 ### 插件展示
+
+常规状态：
+
+![常规状态](https://i.postimg.cc/pLgQ4xCj/1.png)
+
+端口推荐：
+
+![推荐端口](https://i.postimg.cc/Wzb0g4NB/2.png)
+
+端口检测：
+
+![推荐端口](https://i.postimg.cc/j5THqXGd/3.png)
+
+![推荐端口](https://i.postimg.cc/bJRQZnh0/4.png)
