@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul, li {
+  list-style-type: none;
+}
+
+.container {
+  padding: 10px;
+  padding-bottom: 0;
+  background-color: #f4f5f5;
+  box-sizing: border-box;
+}
+
+.warning-text {
+  padding: 15px 0;
+  padding-top: 5px;
+  font-weight: bold;
+  text-align: center;
+  font-size: 110%;
+}
+
+.operations {
+  width: 100%;
+}
+
+.operations .btn {
+  width: 100%;
+  height: 26px;
+  margin-bottom: 12px;
+  line-height: 24px;
+  border-radius: 4px;
+  border: 1px solid #e4e7ed;
+  text-align: center;
+  cursor: pointer;
+  box-sizing: border-box;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.14);
+  background-color: #04c8cb;
+  color: #FFFFF0;
+  transition: all 0.08s ease-in-out;
+}
+
+.operations .btn:hover {
+  transform: scale(1.1);
+}
+
+.port-list-item {
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.14);
+  box-sizing: border-box;
+  background-color: #fff;
+}
+
+.port-list-item .title {
+  font-weight: bold;
+}
+
+.port-list-item .sub-title {
+  margin-top: 7px;
+  font-size: 80%;
+  color: #909399;
+}
+
+.port-list-item ul {
+  margin-top: 12px;
+}
+
+.port-list-item li {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 7px;
+}
+
+.port-list-item li:last-child {
+  margin-bottom: 0;
+}
+
+.port-list-item li .label {
+  display: flex;
+  align-items: center;
+  min-width: 62px;
+  margin-right: 12px;
+}
+
+.port-list-item li .icon {
+  width: 10px;
+  height: auto;
+  margin-right: 7px;
+}
+
+.port-list-item li .label span {
+  color: #606266;
+}
