@@ -1,7 +1,7 @@
 {
     "name": "应用端口",
     "version": "1.0",
-    "description": "记录开发过程中各项目在不同环境下使用的端口号，防止端口冲突。",
+    "description": "记录前端开发时各项目在不同环境下使用的端口号，防止端口冲突。",
     "manifest_version": 3,
     "icons": {
       "128": "./images/logo.png",
